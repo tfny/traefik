@@ -9,7 +9,7 @@ _You_ Made It
 {: .subtitle}
 
 Traefik truly is an [open-source project](https://github.com/traefik/traefik/),
-and wouldn't have become what it is today without the help of our [many contributors](https://github.com/traefik/traefik/graphs/contributors) (at the time of writing this),
+and wouldn't have become what it is today without the help of our [many contributors](https://github.com/traefik/traefik/graphs/contributors),
 not accounting for people having helped with issues, tests, comments, articles, ... or just enjoying it and letting others know.
 
 So once again, thank you for your invaluable help on making Traefik such a good product.
@@ -21,6 +21,7 @@ So once again, thank you for your invaluable help on making Traefik such a good 
       read the page [Submitting Issues](./submitting-issues.md).
     - Discover how to make an efficient contribution,
       read the page [Submitting Pull Requests](./submitting-pull-requests.md).
+    - Ask or answer questions about Traefik, [Connect with our Community] (https://community.traefik.io/).   
     - Learn how to build and test Traefik,
       the page [Building and Testing](./building-testing.md) is for you.
     - Contribute to the documentation,
