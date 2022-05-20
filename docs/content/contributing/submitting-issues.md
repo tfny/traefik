@@ -8,7 +8,7 @@ description: "Help us help you! Learn how to submit an issue, following the guid
 Help Us Help You!
 {: .subtitle }
 
-We use the [GitHub issue tracker](https://github.com/traefik/traefik/issues) to keep track of issues in Traefik. 
+Issues are perfcet for requesting a feature/enhancment or reporting a suspected bug.  We use the [GitHub issue tracker](https://github.com/traefik/traefik/issues) to keep track of issues in Traefik. 
 
 The process of sorting and checking the issues is a daunting task, and requires a lot of work (more than an hour a day ... just for sorting).
 To save us some time and get quicker feedback, be sure to follow the guide lines below.
