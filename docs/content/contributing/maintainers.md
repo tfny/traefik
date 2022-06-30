@@ -58,6 +58,7 @@ The `status/*` labels represent the desired state in the workflow.
 * `contributor/waiting-for-feedback`: we need the contributor to give us feedback.
 * `contributor/waiting-for-corrections`: we need the contributor to take actions in order to move forward with a PR. **(only for PR)** _[bot, humans]_
 * `contributor/needs-resolve-conflicts`: use it only when there is some conflicts (and an automatic rebase is not possible). **(only for PR)** _[bot, humans]_
+* `contributor/priority`: tells you which pull requests will make it to the front of the queue for design support and review.
 
 ### Kind
 
