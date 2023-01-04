@@ -228,4 +228,4 @@ but you should answer reasonable comments with an explanation.
 
 No document can take the place of common sense and good taste. 
 Use your best judgment, while you put a bit of thought into how your work can be made easier to review. 
-If you do these things your pull requests will get merged with less friction.
+If you do these things your pull requests will get merged with less friction. 
